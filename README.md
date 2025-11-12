@@ -57,7 +57,7 @@ The course was taught by **Ashish Aggarwal** during **Fall 2024**, when I took i
 - Includes **loading images, encoding/decoding RLE, hex conversions**, and **image display**.  
 - Implements a **menu-driven system** for interacting with images.
 
-### 💣 Final Project – [Sudoku Game](Project3)
+### 💣 Final Project – [Sudoku Game](Project%203)
 - **Sudoku Game using Pygame**.  
 - Features **GUI with clickable cells, sketching numbers, and placing numbers**.  
 - Includes **difficulty selection (easy, medium, hard)** and **win/loss detection**.  
