@@ -14,37 +14,37 @@ This repository includes code and assignments from **COP3502C – Programming Fu
 ### 📝 Labs
 
 #### Lab 1
-- 🟢 **Part A** – Convert temperature from **Celsius to Fahrenheit** (rounded to 1 decimal place).  
-- 🟢 **Part B** – Calculate **sales tax** on a purchased item (rounded to 2 decimal places).  
-- 🟢 **Part C** – Calculate the **number of days between two dates**.
+- **Part A** – Convert temperature from **Celsius to Fahrenheit** (rounded to 1 decimal place).  
+- **Part B** – Calculate **sales tax** on a purchased item (rounded to 2 decimal places).  
+- **Part C** – Calculate the **number of days between two dates**.
 
 #### Lab 2
-- 🟢 **Part A** – Classify **triangles** as equilateral, isosceles, or scalene based on side lengths.  
-- 🟢 **Part B** – Calculate **federal income tax** based on 2023 tax brackets.  
-- 🟢 **Part C** – Improved **temperature converter** that supports **Fahrenheit, Celsius, and Kelvin** conversions.
+- **Part A** – Classify **triangles** as equilateral, isosceles, or scalene based on side lengths.  
+- **Part B** – Calculate **federal income tax** based on 2023 tax brackets.  
+- **Part C** – Improved **temperature converter** that supports **Fahrenheit, Celsius, and Kelvin** conversions.
 
 #### Lab 3
-- 🟢 **Calculator Program** – Implements addition, subtraction, multiplication, division, exponentiation, logarithm, and display average.  
+- **Calculator Program** – Implements addition, subtraction, multiplication, division, exponentiation, logarithm, and display average.  
   - Handles **invalid inputs** and division by zero.  
   - Tracks **current result, total sum, and number of calculations** using global variables.  
 
 #### Lab 4
-- 🟢 **Prime and Fibonacci Utilities** – Functions for **Fibonacci sequence**, **prime checking**, and **prime factorization**.  
+- **Prime and Fibonacci Utilities** – Functions for **Fibonacci sequence**, **prime checking**, and **prime factorization**.  
   - Includes **error handling** for invalid inputs.  
   - Demonstrates **loops, conditional logic, and number theory concepts**.  
 
 #### Lab 5
-- 🟢 **Binary & Hexadecimal Decoder** – Program for **decoding hexadecimal and binary strings**, and **binary to hexadecimal conversion**.  
+- **Binary & Hexadecimal Decoder** – Program for **decoding hexadecimal and binary strings**, and **binary to hexadecimal conversion**.  
   - Includes **menu-driven user interface**.  
   - Implements **functions for hex and binary decoding** with error handling.  
 
 #### Lab 6
-- 🟢 **Connect Four Game** – Uses a 2D board list.  
+- **Connect Four Game** – Uses a 2D board list.  
   - Supports **player turns, board display, chip insertion**, and **win detection** (horizontal and vertical).  
   - Handles **draw conditions** when the board is full.
 
 #### Lab 7
-- 🟢 **Student Grade Calculator** – Uses imported course data to compute **weighted scores**.  
+- **Student Grade Calculator** – Uses imported course data to compute **weighted scores**.  
   - Handles **missing submissions** and prints a **final grade**.
 
 ---
@@ -52,17 +52,17 @@ This repository includes code and assignments from **COP3502C – Programming Fu
 ### 🎮 Projects
 
 #### Project 1 – Blackjack Game
-- 🟢 **Blackjack Game Simulation** using a random number generator.  
+- **Blackjack Game Simulation** using a random number generator.  
   - Handles **card dealing, player/dealer logic**, and **game statistics**.  
   - Implements a **menu for drawing cards, holding, viewing stats, or exiting**.
 
 #### Project 2 – RLE Image Program
-- 🟢 **Run-Length Encoding (RLE) Image Program**.  
+- **Run-Length Encoding (RLE) Image Program**.  
   - Includes **loading images, encoding/decoding RLE, hex conversions**, and **image display**.  
   - Implements a **menu-driven system** for interacting with images.
 
 #### Final Project – Sudoku Game
-- 🟢 **Sudoku Game using Pygame**.  
+- **Sudoku Game using Pygame**.  
   - Features **GUI with clickable cells, sketching numbers, and placing numbers**.  
   - Includes **difficulty selection (easy, medium, hard)** and **win/loss detection**.  
   - Supports **reset, restart, and exit buttons**.
