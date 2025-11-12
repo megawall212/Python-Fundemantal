@@ -9,25 +9,65 @@ The course was taught by **Ashish Aggarwal** during **Fall 2024**, when I took i
 
 ## 🗂️ Contents / Topics Covered
 
-This repository includes code and assignments from **COP3502C – Programming Fundamentals 1** at UF. Below is an organized list of topics and corresponding files:
+This repository includes code and assignments from **COP3502C – Programming Fundamentals 1** at UF. Below is an organized list of topics and corresponding parts/projects:
 
 ### 📝 Labs
-- 🟢 Lab 1: [Brief description or file name]  
-- 🟢 Lab 2: [Brief description or file name]  
-- 🟢 Lab 3: [Brief description or file name]  
-- 🟢 Lab 4: [Brief description or file name]  
-- 🟢 Lab 5: [Brief description or file name]  
-- 🟢 Lab 6: [Brief description or file name]  
 
-### ✨ Extra Credit Assignments
-- 🌟 Extra Credit 1: [Description or file name]  
-- 🌟 Extra Credit 2: [Description or file name]  
+#### Lab 1
+- 🟢 **Part A** – Convert temperature from **Celsius to Fahrenheit** (rounded to 1 decimal place).  
+- 🟢 **Part B** – Calculate **sales tax** on a purchased item (rounded to 2 decimal places).  
+- 🟢 **Part C** – Calculate the **number of days between two dates**.
 
-### 🎯 Final Group Project
-- 📁 [Project Name or Folder]: [Brief description]  
-  - 📄 File 1: [Description]  
-  - 📄 File 2: [Description]  
-  - 📄 File 3: [Description]  
+#### Lab 2
+- 🟢 **Part A** – Classify **triangles** as equilateral, isosceles, or scalene based on side lengths.  
+- 🟢 **Part B** – Calculate **federal income tax** based on 2023 tax brackets.  
+- 🟢 **Part C** – Improved **temperature converter** that supports **Fahrenheit, Celsius, and Kelvin** conversions.
+
+#### Lab 3
+- 🟢 **Calculator Program** – Implements addition, subtraction, multiplication, division, exponentiation, logarithm, and display average.  
+  - Handles **invalid inputs** and division by zero.  
+  - Tracks **current result, total sum, and number of calculations** using global variables.  
+
+#### Lab 4
+- 🟢 **Prime and Fibonacci Utilities** – Functions for **Fibonacci sequence**, **prime checking**, and **prime factorization**.  
+  - Includes **error handling** for invalid inputs.  
+  - Demonstrates **loops, conditional logic, and number theory concepts**.  
+
+#### Lab 5
+- 🟢 **Binary & Hexadecimal Decoder** – Program for **decoding hexadecimal and binary strings**, and **binary to hexadecimal conversion**.  
+  - Includes **menu-driven user interface**.  
+  - Implements **functions for hex and binary decoding** with error handling.  
+
+#### Lab 6
+- 🟢 **Connect Four Game** – Uses a 2D board list.  
+  - Supports **player turns, board display, chip insertion**, and **win detection** (horizontal and vertical).  
+  - Handles **draw conditions** when the board is full.
+
+#### Lab 7
+- 🟢 **Student Grade Calculator** – Uses imported course data to compute **weighted scores**.  
+  - Handles **missing submissions** and prints a **final grade**.
+
+---
+
+### 🎮 Projects
+
+#### Project 1 – Blackjack Game
+- 🟢 **Blackjack Game Simulation** using a random number generator.  
+  - Handles **card dealing, player/dealer logic**, and **game statistics**.  
+  - Implements a **menu for drawing cards, holding, viewing stats, or exiting**.
+
+#### Project 2 – RLE Image Program
+- 🟢 **Run-Length Encoding (RLE) Image Program**.  
+  - Includes **loading images, encoding/decoding RLE, hex conversions**, and **image display**.  
+  - Implements a **menu-driven system** for interacting with images.
+
+#### Final Project – Sudoku Game
+- 🟢 **Sudoku Game using Pygame**.  
+  - Features **GUI with clickable cells, sketching numbers, and placing numbers**.  
+  - Includes **difficulty selection (easy, medium, hard)** and **win/loss detection**.  
+  - Supports **reset, restart, and exit buttons**.
+
+---
 
 ### 🧠 Concepts / Topics Covered
 - 🐍 Python basics: variables, loops, conditionals  
@@ -36,5 +76,9 @@ This repository includes code and assignments from **COP3502C – Programming Fu
 - 🏷️ Object-oriented programming (classes, methods)  
 - 📄 File input/output  
 - 🎲 Random number generation  
-- 🃏 Simple game development (Blackjack, etc.)  
+- 🧮 Mathematical calculations: exponentiation, logarithm, Fibonacci  
+- 🔢 Number theory: prime checking, prime factors  
+- 🔡 Binary and hexadecimal conversions  
 - 🐞 Debugging and testing  
+- 🃏 Simple game development (Blackjack, Connect Four, Sudoku)  
+- 🖼️ Image processing (RLE encoding/decoding)  
