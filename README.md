@@ -82,4 +82,4 @@ The course was taught by **Ashish Aggarwal** during **Fall 2024**, when I took i
 
 ---
 
-*Completed as part of COP3502C at the University of Florida, Spring 2025.*
+*Completed as part of COP3502C at the University of Florida, Fall 2024.*
