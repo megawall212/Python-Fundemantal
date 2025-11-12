@@ -79,3 +79,7 @@ The course was taught by **Ashish Aggarwal** during **Fall 2024**, when I took i
 - 🐞 **Debugging and testing**  
 - 🃏 **Simple game development:** Blackjack, Connect Four, Sudoku  
 - 🖼️ **Image processing:** RLE encoding/decoding  
+
+---
+
+*Completed as part of COP3502C at the University of Florida, Spring 2025.*
